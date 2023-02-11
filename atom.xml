@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xl0707.github.io.git</id>
+    <title>xinglu Blog</title>
+    <updated>2023-02-11T17:30:51.673Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xl0707.github.io.git"/>
+    <link rel="self" href="https://xl0707.github.io.git/atom.xml"/>
+    <subtitle>xinglu个人博客</subtitle>
+    <logo>https://xl0707.github.io.git/images/avatar.png</logo>
+    <icon>https://xl0707.github.io.git/favicon.ico</icon>
+    <rights>All rights reserved 2023, xinglu Blog</rights>
+</feed>
